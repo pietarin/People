@@ -37,4 +37,4 @@ Normal CRUD operations can be used via applications like postman on the data.
 
 <br />
 
-To access the user interface, which currently is no more than a react app that renders an unordered list of players with links to `http://localhost:3000/api/players/`, simply run index.html. I used [CDN](https://reactjs.org/docs/cdn-links.html) to keep things simple for now.
+To access the user interface, which currently is no more than a react app that renders an unordered list of players with links to `http://localhost:3000/api/players/:id`, simply run index.html. I used [CDN](https://reactjs.org/docs/cdn-links.html) to keep things simple for now.
